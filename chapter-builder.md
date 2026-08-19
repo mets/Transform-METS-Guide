@@ -36,7 +36,7 @@
 ./METS-guide/mets_howtos.md
 ```
 
-``` {.include shift-heading-level-by=1}
+``` {.include shift-heading-level-by=2}
 ./METS-guide/howto/altRecordID.md
 ./METS-guide/howto/agent.md
 ./METS-guide/howto/md.md
